@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+section {
+    /* height: 700px; */
+    padding-bottom: 150px;
+}
+
+.donate-now {
+    background-image: url("images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* opacity: 0.78; */
+    margin-bottom: 100px;
+}
+
+.donate-now div {
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#heading {
+    padding-top: 250px;
+    margin-top: 0px;
+    font-size: 50px;
+}
+
+.button-style {
+    padding: 10px 20px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.donating-section {
+    height: 400px;
+}
+
+.donating-section div {
+    text-align: center;
+}
+
+.header-class {
+    font-size: 40px;
+    text-align: center;
+}
+
+.donation-amount {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color: gray;
+}
+
+.amount-border {
+    padding: 10px 20px;
+    border: 0px solid gray;
+    background-color: rgba(128, 128, 128, 0.088);
+    border-radius: 5px;
+}
+
+.specialAmount-border {
+    color: #FF5959;
+    border: 1px solid #FF5959;
+    background-color: #ff59591f;
+}
+
+#input-donate {
+    margin-top: 30px;
+}
+
+#input-field {
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.53);
+}
+
+.planing-section {
+    text-align: center
+}
+
+.planing-container {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.planing-part {
+    margin-inline: 80px;
+    border: none;
+    padding-top: 100px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.bonus-mark {
+    display: flex;
+    align-items: center;
+    height: 400px;
+}
+
+.bonus-mark div h2 {
+    font-size: 40px;
+}
+
+.bonus-mark div img {
+    height: 400px;
+    width: 760px;
+    padding: right 80px;
+}
+.update-section{
+    text-align: center;
+}
+.update-box{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    height: 50px;
+}
+.update-section div input{
+    background-color: rgba(128, 128, 128, 0.271);
+    width: 200px;
+    padding-left: 10px;
+}
+.update-section div button{
+    background-color: #FF5959;
+    width: 100px;
+    margin-left: -3px;
+}
+.update-section div{
+    background-color: #FFF4D6;
+    margin-top: 50px;
+    padding-block: 80px;
+    margin-inline: 200px;
+}
+.foter-section{
+    padding-bottom: 0px;
+}
+.foter-section div{
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 150px;
+}
